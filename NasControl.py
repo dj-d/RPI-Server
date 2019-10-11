@@ -5,4 +5,4 @@ import os
 
 
 def turn_on():
-    os.system("wakeonlan C8:54:4B:7A:92:C8")
+    os.system("wakeonlan your_nas_mac_address")
